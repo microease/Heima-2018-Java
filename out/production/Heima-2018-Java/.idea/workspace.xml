@@ -30,12 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/DataType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-              <folding>
-                <element signature="e#66#67#0" expanded="true" />
-                <element signature="e#87#88#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -222,12 +218,12 @@
       <workItem from="1558491952430" duration="18000" />
       <workItem from="1558492008437" duration="124000" />
       <workItem from="1558492205792" duration="9363000" />
-      <workItem from="1558574935674" duration="575000" />
+      <workItem from="1558574935674" duration="2931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15769000" />
+    <option name="totallyTimeSpent" value="18125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -340,12 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/DataType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding>
-            <element signature="e#66#67#0" expanded="true" />
-            <element signature="e#87#88#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
         </state>
       </provider>
     </entry>
