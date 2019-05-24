@@ -4,7 +4,10 @@ public class Demo12If {
         int b = 20;
         if (b > a) {
             System.out.println("b>a");
-        } else {
+        } else if (){
+
+        }
+        else {
             System.out.println("b<a");
         }
     }
