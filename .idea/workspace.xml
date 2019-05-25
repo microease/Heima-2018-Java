@@ -26,7 +26,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo19HourMinute.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,6 +71,7 @@
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo16DoWhile.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo17HundreSum.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo18BreakContinue.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo19HourMinute.java" />
       </list>
     </option>
   </component>
@@ -70,7 +81,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="347" />
     <option name="y" value="185" />
     <option name="width" value="1400" />
@@ -149,14 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo18BreakContinue">
-    <configuration name="Demo14For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo14For" />
-      <module name="Heima-2018-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo19HourMinute">
     <configuration name="Demo15While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo15While" />
       <module name="Heima-2018-Java" />
@@ -185,13 +189,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo19HourMinute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo19HourMinute" />
+      <module name="Heima-2018-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo19HourMinute" />
         <item itemvalue="Application.Demo18BreakContinue" />
         <item itemvalue="Application.Demo17HundreSum" />
         <item itemvalue="Application.Demo16DoWhile" />
         <item itemvalue="Application.Demo15While" />
-        <item itemvalue="Application.Demo14For" />
       </list>
     </recent_temporary>
   </component>
@@ -219,17 +230,17 @@
       <workItem from="1558574935674" duration="8451000" />
       <workItem from="1558662516494" duration="8946000" />
       <workItem from="1558711751375" duration="2089000" />
-      <workItem from="1558783599022" duration="4791000" />
+      <workItem from="1558783599022" duration="5278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39471000" />
+    <option name="totallyTimeSpent" value="39958000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.11886994" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.11886994" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,7 +250,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3560268" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3560268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,6 +415,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo19HourMinute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
