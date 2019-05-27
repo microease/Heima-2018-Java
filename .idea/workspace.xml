@@ -28,10 +28,14 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo20.java">
+        <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo21.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#65#66#0" expanded="true" />
+                <element signature="e#85#86#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +77,7 @@
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo18BreakContinue.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo19HourMinute.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo20.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo21.java" />
       </list>
     </option>
   </component>
@@ -161,14 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo20">
-    <configuration name="Demo16DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo16DoWhile" />
-      <module name="Heima-2018-Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Demo21">
     <configuration name="Demo17HundreSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo17HundreSum" />
       <module name="Heima-2018-Java" />
@@ -197,13 +195,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo21" />
+      <module name="Heima-2018-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo21" />
         <item itemvalue="Application.Demo20" />
         <item itemvalue="Application.Demo19HourMinute" />
         <item itemvalue="Application.Demo18BreakContinue" />
         <item itemvalue="Application.Demo17HundreSum" />
-        <item itemvalue="Application.Demo16DoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -232,18 +237,18 @@
       <workItem from="1558662516494" duration="8946000" />
       <workItem from="1558711751375" duration="2089000" />
       <workItem from="1558783599022" duration="5278000" />
-      <workItem from="1558924448872" duration="7548000" />
+      <workItem from="1558924448872" duration="9164000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47789000" />
+    <option name="totallyTimeSpent" value="49405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.09434968" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.09434968" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -253,7 +258,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3560268" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3560268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,8 +435,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        <state relative-caret-position="330">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#93#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#65#66#0" expanded="true" />
+            <element signature="e#85#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
