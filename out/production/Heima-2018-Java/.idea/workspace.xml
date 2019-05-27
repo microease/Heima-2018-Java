@@ -26,12 +26,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo15While.java">
+        <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo20.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="90">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -68,6 +68,11 @@
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo13Switch.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo14For.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo15While.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo16DoWhile.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo17HundreSum.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo18BreakContinue.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo19HourMinute.java" />
+        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo20.java" />
       </list>
     </option>
   </component>
@@ -78,27 +83,16 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="347" />
-    <option name="y" value="185" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,6 +110,17 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,37 +161,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo15While">
-    <configuration name="Demo11Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo11Method" />
+  <component name="RunManager" selected="Application.Demo20">
+    <configuration name="Demo16DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo16DoWhile" />
       <module name="Heima-2018-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo12If" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo12If" />
+    <configuration name="Demo17HundreSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo17HundreSum" />
       <module name="Heima-2018-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo13Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo13Switch" />
+    <configuration name="Demo18BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo18BreakContinue" />
       <module name="Heima-2018-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo14For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo14For" />
+    <configuration name="Demo19HourMinute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo19HourMinute" />
       <module name="Heima-2018-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo15While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo15While" />
+    <configuration name="Demo20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo20" />
       <module name="Heima-2018-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -194,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo15While" />
-        <item itemvalue="Application.Demo14For" />
-        <item itemvalue="Application.Demo13Switch" />
-        <item itemvalue="Application.Demo12If" />
-        <item itemvalue="Application.Demo11Method" />
+        <item itemvalue="Application.Demo20" />
+        <item itemvalue="Application.Demo19HourMinute" />
+        <item itemvalue="Application.Demo18BreakContinue" />
+        <item itemvalue="Application.Demo17HundreSum" />
+        <item itemvalue="Application.Demo16DoWhile" />
       </list>
     </recent_temporary>
   </component>
@@ -226,18 +231,19 @@
       <workItem from="1558574935674" duration="8451000" />
       <workItem from="1558662516494" duration="8946000" />
       <workItem from="1558711751375" duration="2089000" />
-      <workItem from="1558783599022" duration="618000" />
+      <workItem from="1558783599022" duration="5278000" />
+      <workItem from="1558924448872" duration="7548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35298000" />
+    <option name="totallyTimeSpent" value="47789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.09541578" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.09434968" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -297,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/Demo02.java" />
     <entry file="file://$PROJECT_DIR$/micro/test1.java" />
     <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/aa.java" />
-    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo01HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
@@ -325,7 +331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Operator.java">
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo04Operator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
@@ -391,6 +397,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo16DoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo17HundreSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo19HourMinute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo18BreakContinue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
       </provider>
     </entry>
