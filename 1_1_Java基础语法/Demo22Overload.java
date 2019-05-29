@@ -7,6 +7,7 @@ public class Demo22Overload {
     public static void myPrint(int num) {
         System.out.println(num);
     }
+
     public static void myPrint(boolean num) {
         System.out.println(num);
 
