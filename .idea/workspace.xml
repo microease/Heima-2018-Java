@@ -27,20 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/DataType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Demo01Duixiang.java">
+        <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Demo01Class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -90,6 +81,8 @@
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo25ArrayMax.java" />
         <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo26reverse.java" />
         <option value="$PROJECT_DIR$/1_2_面向对象和封装/Demo01Duixiang.java" />
+        <option value="$PROJECT_DIR$/1_2_面向对象和封装/Student.java" />
+        <option value="$PROJECT_DIR$/1_2_面向对象和封装/Demo01Class.java" />
       </list>
     </option>
   </component>
@@ -251,18 +244,18 @@
       <workItem from="1558783599022" duration="5278000" />
       <workItem from="1558924448872" duration="11970000" />
       <workItem from="1559008200705" duration="9367000" />
-      <workItem from="1559095377822" duration="5444000" />
+      <workItem from="1559095377822" duration="8894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67022000" />
+    <option name="totallyTimeSpent" value="70472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.096481875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.096481875" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -272,7 +265,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34151787" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.34151787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,8 +274,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32924107" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.34151787" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32924107" />
       <window_info anchor="bottom" id="调试" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -508,6 +501,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Demo01Duixiang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/DataType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -515,10 +515,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Demo01Duixiang.java">
+    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#76#77#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Demo01Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
