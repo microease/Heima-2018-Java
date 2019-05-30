@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41e8691d-af8a-42c4-9582-2d639928a9fe" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_2_面向对象和封装/demo01/Demo01Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_1_Java基础语法/Demo22Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_1_Java基础语法/Demo22Overload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_2_面向对象和封装/Demo01Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_2_面向对象和封装/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_2_面向对象和封装/demo01/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/1_1_Java基础语法/Demo22Overload.java" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/1_1_Java基础语法/Demo22Overload.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo22Overload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo22Overload.class" afterDir="false" />
-    </list>
+    <list default="true" id="41e8691d-af8a-42c4-9582-2d639928a9fe" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,33 +13,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo05/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-              <folding>
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo05/Demo01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,7 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -113,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,17 +196,17 @@
       <option name="presentableId" value="Default" />
       <updated>1559179752525</updated>
       <workItem from="1559179760777" duration="13485000" />
+      <workItem from="1559232020691" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14432000" />
+    <option name="totallyTimeSpent" value="15034000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.09701493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.09808102" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,13 +315,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo04/demo01Difference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo04/demo01Difference.java" />
     <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo03/demo01Difference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -400,13 +361,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo05/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
+        <state relative-caret-position="690">
           <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
+            <element signature="e#134#135#0" expanded="true" />
             <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
             <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
             <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
             <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
             <element signature="e#582#583#0" expanded="true" />
           </folding>
         </state>
@@ -415,7 +381,7 @@
     <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo05/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
