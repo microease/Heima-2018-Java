@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/1_1_Java基础语法" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_2_面向对象和封装" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_3_常用API第一部分" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
