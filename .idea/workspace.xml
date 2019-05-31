@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41e8691d-af8a-42c4-9582-2d639928a9fe" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/Demo01Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/Heima-2018-Java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/META-INF/Heima-2018-Java.kotlin_module" beforeDir="false" />
-    </list>
+    <list default="true" id="41e8691d-af8a-42c4-9582-2d639928a9fe" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,17 +71,6 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -113,6 +95,17 @@
               <item name="1_3_常用API第一部分" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -240,17 +233,18 @@
       <updated>1559179752525</updated>
       <workItem from="1559179760777" duration="13485000" />
       <workItem from="1559232020691" duration="2659000" />
+      <workItem from="1559254846585" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17091000" />
+    <option name="totallyTimeSpent" value="17689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.11886994" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.119936034" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
