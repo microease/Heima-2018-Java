@@ -1,4 +1,4 @@
-package src.com.wzxdm;
+package src.com.wzxdm.demo01;
 
 import java.util.Scanner;
 
@@ -14,5 +14,3 @@ public class Demo01Scanner {
 
     }
 }
-
-
