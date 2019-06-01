@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41e8691d-af8a-42c4-9582-2d639928a9fe" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/Demo01Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" afterDir="false" />
+    <list default="true" id="31c1be79-0dbc-494d-be4f-2e70ecf8ae2c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/Heima-2018-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo01Random.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/META-INF/Heima-2018-Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/1_3_常用API第一部分/src/11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/11" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,15 +17,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo02/Anonymous.java">
+        <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            <state relative-caret-position="325">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,27 +49,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_1_Java基础语法/Demo22Overload.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/Demo01Class.java" />
-        <option value="$PROJECT_DIR$/1.2/Demo01Class.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo01/Demo01Class.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo02/Phone.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo02/demo01.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo02/demo02.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo02/demo03.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo03/Personal.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo04/demo01Difference.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo03/demo01Difference.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo04/demo01.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo04/Personal.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo05/Student.java" />
-        <option value="$PROJECT_DIR$/1_2_面向对象和封装/demo05/Demo01.java" />
-        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/Demo01Scanner.java" />
-        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/Demo02Add.java" />
-        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/Demo03Max.java" />
-        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo01/Demo01Scanner.java" />
-        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo02/Personal.java" />
-        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo02/Anonymous.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Random.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo01Random.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo02.java" />
       </list>
     </option>
   </component>
@@ -81,9 +67,10 @@
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="false" />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,11 +81,6 @@
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_2_面向对象和封装" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
               <item name="1_3_常用API第一部分" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -120,18 +102,7 @@
               <item name="1_3_常用API第一部分" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo02" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+              <item name="demo03Random" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,20 +115,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/1_3_常用API第一部分/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="模块" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\microease\Documents\GitHub\Heima-2018-Java\1_3_常用API第一部分\src" />
-      <recent name="C:\Users\microease\Documents\GitHub\Heima-2018-Java\1_2_面向对象和封装\demo04" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,13 +131,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Anonymous">
-    <configuration name="Anonymous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02.Anonymous" />
+  <component name="RunManager" selected="Application.Demo02">
+    <configuration name="Demo01Random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo03Random.Demo01Random" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo02.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo03Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,51 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05.Demo01" />
+    <configuration name="Demo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo03Random.Demo02" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo01Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01.Demo01Scanner" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01.Demo02Add" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo03Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01.Demo03Max" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo01.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo03Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +160,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Anonymous" />
-        <item itemvalue="Application.Demo03Max" />
-        <item itemvalue="Application.Demo02Add" />
-        <item itemvalue="Application.Demo01Scanner" />
-        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.Demo02" />
+        <item itemvalue="Application.Demo01Random" />
       </list>
     </recent_temporary>
   </component>
@@ -252,322 +170,74 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="41e8691d-af8a-42c4-9582-2d639928a9fe" name="默认更改列表" comment="" />
-      <created>1559179752525</created>
+      <changelist id="31c1be79-0dbc-494d-be4f-2e70ecf8ae2c" name="默认更改列表" comment="" />
+      <created>1559393548113</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1559179752525</updated>
-      <workItem from="1559179760777" duration="13485000" />
-      <workItem from="1559232020691" duration="2659000" />
-      <workItem from="1559267243622" duration="5180000" />
+      <updated>1559393548113</updated>
+      <workItem from="1559393553619" duration="2417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22271000" />
+    <option name="totallyTimeSpent" value="2417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.119936034" />
-      <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="设计器" order="7" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="设计器" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14658849" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3549107" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23214285" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.328125" />
-      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="调色板" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.3295129" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.3295129" />
-      <window_info anchor="right" id="调色板" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/Demo22Overload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/Demo01Duixiang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo01/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo01/Demo01Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo02/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo02/demo02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo02/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo02/demo03.java">
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo01Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo04/demo01Difference.java" />
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo03/demo01Difference.java">
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo03Random/Demo02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo03/Personal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="325">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/DataType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo04/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo04/Personal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo05/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
-          <folding>
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_2_面向对象和封装/demo05/Demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/11">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/11">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/1111">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo01/Demo03Max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo01/Demo02Add.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo01/Demo01Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo02/Personal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo02/Anonymous.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Heima-2018-Java</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
