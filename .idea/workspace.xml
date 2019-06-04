@@ -2,9 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/DataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo01Duixiang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo01HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo04Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo06Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo07Operator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo11Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo12If.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo13Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo14For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo15While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo16DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo17HundreSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo18BreakContinue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo19HourMinute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo22Overload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo23Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo23Array02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo24Array03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo25ArrayMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/Demo26reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo01/Demo01Class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo01/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo02/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo02/demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo02/demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo02/demo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo03/Personal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo03/demo01Difference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo04/Personal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo04/demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo05/Demo01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/demo05/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo01/Demo01Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo01/Demo02Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo01/Demo03Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo02/Anonymous.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo02/AnonymousScanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo02/Personal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo02/demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo03Random/Demo01Random.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo03Random/Demo02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Array/Demo01Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Array/Demo02ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Array/Personal.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +64,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="48" />
     <option name="y" value="23" />
     <option name="width" value="1872" />
@@ -219,16 +266,17 @@
       <workItem from="1559563355659" duration="3539000" />
       <workItem from="1559611863875" duration="12646000" />
       <workItem from="1559655739742" duration="2263000" />
+      <workItem from="1559663590846" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34479000" />
+    <option name="totallyTimeSpent" value="35176000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1872" height="1057" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.12404372" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.12100213" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -363,109 +411,17 @@
     <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/module-info.java" />
     <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo05String/Demo08StringCount.java" />
     <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo05String/demo06SubString.java" />
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo01staticField.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/myClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo02methodStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo03staticStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo04Static.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Personal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo02ArrayApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo01Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo01Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo01staticField.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Student.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/myClass.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo02methodStatic.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo03staticStudent.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo04Static.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Personal.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo02ArrayApi.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo01Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo01Math.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java" />
   </component>
   <component name="masterDetails">
     <states>
