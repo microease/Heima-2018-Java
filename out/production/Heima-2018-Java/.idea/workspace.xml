@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,37 +17,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo01staticField.java">
+        <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -86,13 +63,22 @@
         <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo05String/demo06SubString.java" />
         <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Student.java" />
         <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo01staticField.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/myClass.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/methodStatic.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo03staticStudent.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Personal.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo04Static.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo01Arrays.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo02ArrayApi.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo01Math.java" />
+        <option value="$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="52" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
     <option name="y" value="23" />
-    <option name="width" value="1868" />
+    <option name="width" value="1872" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -135,7 +121,7 @@
               <item name="1_3_常用API第一部分" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo06Static" type="462c0819:PsiDirectoryNode" />
+              <item name="demo08Math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,13 +162,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo01staticField">
-    <configuration name="Demo05StringSplit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05String.Demo05StringSplit" />
+  <component name="RunManager" selected="Application.demo02MathPractise">
+    <configuration name="demo01Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Array.demo01Arrays" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo05String.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo07Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo07StringPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05String.Demo07StringPractise" />
+    <configuration name="demo01Math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo08Math.demo01Math" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo05String.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo08Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo08StringCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05String.Demo08StringCount" />
+    <configuration name="demo02ArrayApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Array.demo02ArrayApi" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo05String.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo07Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,8 +202,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo01staticField" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo06Static.demo01staticField" />
+    <configuration name="demo02MathPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo08Math.demo02MathPractise" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo08Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo04Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo06Static.demo04Static" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -229,26 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo06SubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05String.demo06SubString" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo05String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo01staticField" />
-        <item itemvalue="Application.Demo08StringCount" />
-        <item itemvalue="Application.demo06SubString" />
-        <item itemvalue="Application.Demo07StringPractise" />
-        <item itemvalue="Application.Demo05StringSplit" />
+        <item itemvalue="Application.demo02MathPractise" />
+        <item itemvalue="Application.demo01Math" />
+        <item itemvalue="Application.demo02ArrayApi" />
+        <item itemvalue="Application.demo01Arrays" />
+        <item itemvalue="Application.demo04Static" />
       </list>
     </recent_temporary>
   </component>
@@ -267,18 +253,19 @@
       <workItem from="1559485896934" duration="3677000" />
       <workItem from="1559557738145" duration="2753000" />
       <workItem from="1559563355659" duration="3539000" />
-      <workItem from="1559611863875" duration="4856000" />
+      <workItem from="1559611863875" duration="12646000" />
+      <workItem from="1559655739742" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24426000" />
+    <option name="totallyTimeSpent" value="33430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="48" y="23" width="1872" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.12313433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.12404372" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +275,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.341412" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38950893" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,7 +285,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32771337" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32700893" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.32982087" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -413,10 +400,17 @@
     <entry file="file://$PROJECT_DIR$/1_1_Java基础语法/module-info.java" />
     <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo05String/Demo08StringCount.java" />
     <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo05String/demo06SubString.java" />
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo01staticField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding>
             <element signature="e#197#198#0" expanded="true" />
             <element signature="e#224#225#0" expanded="true" />
@@ -436,10 +430,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo01staticField.java">
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/myClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo02methodStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo03staticStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/demo04Static.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo06Static/Personal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo02ArrayApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo07Array/demo01Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo01Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_3_常用API第一部分/src/com.wzxdm/demo08Math/demo02MathPractise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
