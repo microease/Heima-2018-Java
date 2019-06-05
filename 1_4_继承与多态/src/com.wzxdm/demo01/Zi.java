@@ -10,7 +10,7 @@ public class Zi extends Fu{
         System.out.println(super.num);
     }
     @Override
-    public void method(){ddd
+    public void method(){
         System.out.println("ces1");
     }
 }

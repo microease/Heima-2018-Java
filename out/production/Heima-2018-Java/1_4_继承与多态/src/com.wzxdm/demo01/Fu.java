@@ -7,6 +7,6 @@ public class Fu {
         System.out.println(num);
     }
     public void method(){
-        System.out.println("ces");
+        System.out.println("cesd");
     }
 }
