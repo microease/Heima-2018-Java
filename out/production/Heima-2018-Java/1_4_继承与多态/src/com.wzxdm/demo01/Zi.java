@@ -9,4 +9,8 @@ public class Zi extends Fu{
     public void superZi(){
         System.out.println(super.num);
     }
+    @Override
+    public void method(){
+        System.out.println("ces1");
+    }
 }

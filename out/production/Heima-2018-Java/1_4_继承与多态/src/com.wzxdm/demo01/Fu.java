@@ -6,4 +6,7 @@ public class Fu {
     public void methodFu(){
         System.out.println(num);
     }
+    public void method(){
+        System.out.println("ces");
+    }
 }

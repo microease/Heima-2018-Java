@@ -11,6 +11,7 @@ public class demo01ExtendsField {
         zi.methodZi();
         zi.methodFu();
         zi.superZi();
+        zi.method();
     }
 
 }
