@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Zi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,36 +19,42 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Fu.java">
+        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-              <folding>
-                <element signature="e#73#74#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Zi.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-              <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="293">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/DemoMain.java">
+        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/MainRedPacket.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="240">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#171#172#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,16 +124,20 @@
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo02/Zi.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo02/demo01.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Fu.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Zi.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/DemoMain.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Zi.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/User.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/User.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Manager.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Member.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/MainRedPacket.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="48" />
-    <option name="y" value="23" />
     <option name="width" value="1872" />
-    <option name="height" value="1057" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -140,6 +148,18 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -171,24 +191,12 @@
               <item name="1_4_继承与多态" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo03" type="462c0819:PsiDirectoryNode" />
+              <item name="demo04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DemoMain">
+  <component name="RunManager" selected="Application.MainRedPacket">
     <configuration name="Demo02Phone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01.Demo02Phone" />
       <module name="Heima-2018-Java" />
@@ -237,6 +245,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.wzxdm.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainRedPacket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo04.MainRedPacket" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,26 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo02MathPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo08Math.demo02MathPractise" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo08Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainRedPacket" />
         <item itemvalue="Application.DemoMain" />
         <item itemvalue="Application.demo01" />
         <item itemvalue="Application.Demo02Phone" />
         <item itemvalue="Application.demo01ExtendsField" />
-        <item itemvalue="Application.demo02MathPractise" />
       </list>
     </recent_temporary>
   </component>
@@ -312,18 +320,19 @@
       <workItem from="1559655739742" duration="2263000" />
       <workItem from="1559663590846" duration="697000" />
       <workItem from="1559699547672" duration="9653000" />
-      <workItem from="1559737213787" duration="1744000" />
+      <workItem from="1559737213787" duration="3971000" />
+      <workItem from="1559785495465" duration="5092000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46573000" />
+    <option name="totallyTimeSpent" value="53892000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1872" height="1057" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.12295082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.119936034" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +342,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38839287" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3877766" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -566,32 +575,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Fu.java">
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/DemoMain.java" />
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Zi.java" />
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/User.java" />
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Fu.java" />
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        <state relative-caret-position="413">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
-            <element signature="e#73#74#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/Zi.java">
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="293">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo03/DemoMain.java">
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/MainRedPacket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="240">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
