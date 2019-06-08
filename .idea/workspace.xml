@@ -142,20 +142,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/demo01InnerClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="150">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/Body.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="480">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="e#101#102#0" expanded="true" />
                 <element signature="e#145#146#0" expanded="true" />
@@ -242,8 +242,8 @@
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/Zi.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/demo01Final.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/Personal.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/demo01InnerClass.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/Body.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/demo01InnerClass.java" />
       </list>
     </option>
   </component>
@@ -344,7 +344,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo01Main (1)">
+  <component name="RunManager" selected="Application.demo01InnerClass">
+    <configuration name="demo01InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo10.demo01InnerClass" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo01Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo08.demo01Main" />
       <module name="Heima-2018-Java" />
@@ -364,19 +377,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.wzxdm.demo07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo01Multi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo06.demo01Multi" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,11 +412,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01InnerClass" />
         <item itemvalue="Application.demo01Main (1)" />
         <item itemvalue="Application.demo02Instanceof" />
         <item itemvalue="Application.demo01Main" />
         <item itemvalue="Application.demo02MutiMethod" />
-        <item itemvalue="Application.demo01Multi" />
       </list>
     </recent_temporary>
   </component>
@@ -444,12 +444,12 @@
       <workItem from="1559829622435" duration="2445000" />
       <workItem from="1559868458672" duration="632000" />
       <workItem from="1559872690242" duration="11360000" />
-      <workItem from="1559956146444" duration="9728000" />
+      <workItem from="1559956146444" duration="9899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88307000" />
+    <option name="totallyTimeSpent" value="88478000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
@@ -803,17 +803,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/demo01InnerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/Body.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="480">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#101#102#0" expanded="true" />
             <element signature="e#145#146#0" expanded="true" />
@@ -822,6 +815,13 @@
             <element signature="e#280#281#0" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/demo01InnerClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
