@@ -11,6 +11,32 @@ public class Person {
         this.name = name;
         this.age = age;
     }
+    //重写toString：打印对象的属性
+
+
+    @Override
+    public String toString() {
+//        return super.toString();
+        return "姓名" + name + "年龄:" + age;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+//        return super.equals(obj);
+        if (obj == null) {
+            return false;
+        }
+        if (obj == this) {
+            return true;
+        }
+        if (obj instanceof Person) {
+            Person p = (Person) obj;
+            boolean b = this.name.equals(p.name) && this.age == p.age;
+            return b;
+        }
+        return false;
+
+    }
 
     public String getName() {
         return name;
