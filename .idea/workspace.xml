@@ -141,14 +141,33 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo13/BootStrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/red/OpenMode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="module-info" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -166,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfaceAbstractd.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfaceAbstract.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/demo02MyInterfaceImpal.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/demo01Interface.java" />
@@ -217,6 +235,7 @@
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/Hero.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/DemoMain.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/DemoInterface.java" />
+        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/red/OpenMode.java" />
       </list>
     </option>
   </component>
@@ -271,6 +290,14 @@
               <item name="1_4_继承与多态" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_4_继承与多态" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="red" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -410,15 +437,16 @@
       <workItem from="1559868458672" duration="632000" />
       <workItem from="1559872690242" duration="11360000" />
       <workItem from="1559956146444" duration="13886000" />
-      <workItem from="1560042873555" duration="8033000" />
+      <workItem from="1560042873555" duration="8296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100498000" />
+    <option name="totallyTimeSpent" value="100761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.11140725" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
@@ -459,29 +487,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo04/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/demo02MyInterfaceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfaceAbstract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -828,6 +833,20 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo13/BootStrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/red/OpenMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
         </state>
       </provider>
     </entry>
