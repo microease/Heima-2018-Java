@@ -141,26 +141,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Demo01ToString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -438,16 +419,15 @@
       <workItem from="1559868458672" duration="632000" />
       <workItem from="1559872690242" duration="11360000" />
       <workItem from="1559956146444" duration="13886000" />
-      <workItem from="1560042873555" duration="14958000" />
+      <workItem from="1560042873555" duration="15949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107423000" />
+    <option name="totallyTimeSpent" value="108414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.11140725" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
@@ -459,7 +439,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32119206" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32119206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -833,17 +813,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Demo01ToString.java">
+    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="330">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#1182#1183#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Person.java">
+    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Demo01ToString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="150">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
