@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1_2_面向对象和封装" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_3_常用API第一部分" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_4_继承与多态" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_5_常用API第二部分" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
