@@ -20,20 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo02Auto.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo03Integer.java">
+        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo01Collection/demo02Iterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="90">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -66,8 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfacePrivateImpl.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/demo05Interface.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfaceb.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfaceB.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo05/MyInterfaceA.java" />
@@ -117,6 +106,8 @@
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo01Integer.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo02Auto.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo03Integer.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo01Collection/demo01Collection.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo01Collection/demo02Iterator.java" />
       </list>
     </option>
   </component>
@@ -145,28 +136,28 @@
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_5_常用API第二部分" type="462c0819:PsiDirectoryNode" />
+              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_5_常用API第二部分" type="462c0819:PsiDirectoryNode" />
+              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_5_常用API第二部分" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_5_常用API第二部分" type="462c0819:PsiDirectoryNode" />
+              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="demo01Collection" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,13 +209,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo03Integer">
-    <configuration name="demo01Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05.demo01Integer" />
+  <component name="RunManager" selected="Application.demo01Collection">
+    <configuration name="demo01Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Collection.demo01Collection" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo05.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo01Collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo01System" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo04.demo01System" />
+    <configuration name="demo01Integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05.demo01Integer" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo04.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01Collection" />
         <item itemvalue="Application.demo03Integer" />
         <item itemvalue="Application.demo02Auto" />
         <item itemvalue="Application.demo01Integer" />
         <item itemvalue="Application.demo02StringBuilder" />
-        <item itemvalue="Application.demo01System" />
       </list>
     </recent_temporary>
   </component>
@@ -322,18 +313,18 @@
       <workItem from="1560042873555" duration="15949000" />
       <workItem from="1560095059750" duration="1307000" />
       <workItem from="1560129328228" duration="17693000" />
-      <workItem from="1560219429035" duration="3733000" />
+      <workItem from="1560219429035" duration="9223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131147000" />
+    <option name="totallyTimeSpent" value="136637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.1108742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.1108742" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -343,7 +334,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3112583" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3112583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -372,8 +363,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo06/Zi.java" />
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo06/demo01Multi.java" />
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo06/demo02MutiMethod.java" />
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo07/demo01Main.java" />
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo07/Cat.java" />
@@ -759,6 +748,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo03Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo02Auto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -766,10 +762,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo05/demo03Integer.java">
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo01Collection/demo01Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="270">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo01Collection/demo02Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
