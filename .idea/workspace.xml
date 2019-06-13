@@ -20,24 +20,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInterfaceImp2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInerface.java">
+        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="483">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,8 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo07/demo02Instanceof.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo07/Dog.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/Computer.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/USB.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/Mouse.java" />
@@ -121,6 +109,8 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo04GenericInterfaceImp1.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInterfaceImp2.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInerface.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo06Generic.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" />
       </list>
     </option>
   </component>
@@ -170,7 +160,7 @@
               <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo02e" type="462c0819:PsiDirectoryNode" />
+              <item name="demo03doudizhu" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,13 +212,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo05GenericInerface">
-    <configuration name="demo01e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02e.demo01e" />
+  <component name="RunManager" selected="Application.demo01DouDiZhu">
+    <configuration name="demo01DouDiZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo03doudizhu.demo01DouDiZhu" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo02e.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo03doudizhu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,19 +252,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo03Iterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Collection.demo03Iterator" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo01Collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="demo05GenericInerface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02e.demo05GenericInerface" />
       <module name="Heima-2018-Java" />
@@ -288,13 +265,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo06Generic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02e.demo06Generic" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo02e.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01DouDiZhu" />
+        <item itemvalue="Application.demo06Generic" />
         <item itemvalue="Application.demo05GenericInerface" />
         <item itemvalue="Application.demo02GenericMethod" />
         <item itemvalue="Application.demo03GenericClass" />
-        <item itemvalue="Application.demo03Iterator" />
-        <item itemvalue="Application.demo01e" />
       </list>
     </recent_temporary>
   </component>
@@ -327,18 +317,18 @@
       <workItem from="1560095059750" duration="1307000" />
       <workItem from="1560129328228" duration="17693000" />
       <workItem from="1560219429035" duration="11852000" />
-      <workItem from="1560391869009" duration="9930000" />
+      <workItem from="1560391869009" duration="14347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149196000" />
+    <option name="totallyTimeSpent" value="153613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.17430703" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.17430703" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,7 +338,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3112583" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36754966" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -377,24 +367,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/MySubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/Zi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -807,21 +779,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo04GenericInterfaceImp1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="39" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/GenericInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo04GenericInterfaceImp1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -838,8 +810,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInerface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo06Generic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
