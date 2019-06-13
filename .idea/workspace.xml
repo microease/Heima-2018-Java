@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo01Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/META-INF/Heima-2018-Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo01/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo01/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,20 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,9 +99,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="48" />
-    <option name="y" value="23" />
+    <option name="y" value="22" />
     <option name="width" value="1872" />
-    <option name="height" value="1057" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -129,6 +112,18 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,26 +148,6 @@
               <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo03doudizhu" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -318,17 +293,17 @@
       <workItem from="1560129328228" duration="17693000" />
       <workItem from="1560219429035" duration="11852000" />
       <workItem from="1560391869009" duration="14347000" />
+      <workItem from="1560439820966" duration="334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153613000" />
+    <option name="totallyTimeSpent" value="153947000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="33" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.17430703" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.10369488" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +313,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36754966" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36754176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,7 +323,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3245033" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3237868" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.32982087" />
       <window_info anchor="bottom" id="缩略图" order="14" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -827,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        <state relative-caret-position="1500">
+          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

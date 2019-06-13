@@ -50,7 +50,5 @@ public class demo01DouDiZhu {
         System.out.println("player03："+player03);
         System.out.println("底牌："+diPai);
 
-
-
     }
 }
