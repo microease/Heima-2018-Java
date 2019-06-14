@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="" />
+    <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04List/demo01List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo03doudizhu/demo01DouDiZhu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo03doudizhu/demo01DouDiZhu.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/Computer.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/USB.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/Mouse.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo08/Keyboard.java" />
@@ -92,6 +95,7 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInerface.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo06Generic.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04List/demo01List.java" />
       </list>
     </option>
   </component>
@@ -110,6 +114,17 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,16 +150,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="demo04List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo01DouDiZhu">
+  <component name="RunManager" selected="Application.demo01List">
     <configuration name="demo01DouDiZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo03doudizhu.demo01DouDiZhu" />
       <module name="Heima-2018-Java" />
@@ -202,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo02GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02e.demo02GenericMethod" />
+    <configuration name="demo01List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo04List.demo01List" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo02e.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo04List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,8 +227,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo03GenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02e.demo03GenericClass" />
+    <configuration name="demo02GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02e.demo02GenericMethod" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -256,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01List" />
         <item itemvalue="Application.demo01DouDiZhu" />
         <item itemvalue="Application.demo06Generic" />
         <item itemvalue="Application.demo05GenericInerface" />
         <item itemvalue="Application.demo02GenericMethod" />
-        <item itemvalue="Application.demo03GenericClass" />
       </list>
     </recent_temporary>
   </component>
@@ -296,16 +308,17 @@
       <workItem from="1560391869009" duration="14347000" />
       <workItem from="1560439820966" duration="334000" />
       <workItem from="1560441114009" duration="1532000" />
+      <workItem from="1560477947539" duration="4917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155479000" />
+    <option name="totallyTimeSpent" value="160396000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="33" width="2575" height="1415" extended-state="6" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" weight="0.17926297" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -315,7 +328,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36754176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33222958" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,13 +357,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/Zi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo09/Fu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -804,8 +810,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="50" column="40" lean-forward="true" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+        <state relative-caret-position="211">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04List/demo01List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
