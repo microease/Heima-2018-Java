@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo06Collections/demo01Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo06Collections/demo01Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo01Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/Personal.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/Personal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/demo01Set.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/demo01Set.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/demo02HashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/demo02HashCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/demo03HashSetSaveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/demo03HashSetSaveString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/demo04HashSetSaveStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/demo04HashSetSaveStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/demo05VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo05Set/demo05VarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/Personal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/demo01Set.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/demo02HashCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/demo03HashSetSaveString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/demo04HashSetSaveStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo04Set/demo05VarArgs.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +16,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo01Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/Outer.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo10/demo02InnerClass.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo11/MyInterface.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo11/MyInterfaceImpl.java" />
@@ -110,6 +108,7 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04Set/demo05VarArgs.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo06Collections/demo01Collections.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo06Collections/demo01Sort.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo01Map.java" />
       </list>
     </option>
   </component>
@@ -128,6 +127,7 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -164,11 +164,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="demo07Map" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,16 +324,18 @@
       <workItem from="1560477947539" duration="8361000" />
       <workItem from="1560513653926" duration="7552000" />
       <workItem from="1560564375774" duration="4974000" />
+      <workItem from="1560579735759" duration="1080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176366000" />
+    <option name="totallyTimeSpent" value="177446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="34" width="1933" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.1536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.1552" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,17 +374,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/DemoMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -816,6 +814,17 @@
             <element signature="imports" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
             <element signature="e#549#550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo01Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
