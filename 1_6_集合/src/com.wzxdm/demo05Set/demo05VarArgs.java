@@ -1,4 +1,4 @@
-package src.com.wzxdm.demo04Set;
+package src.com.wzxdm.demo05Set;
 
 public class demo05VarArgs {
     public static void main(String[] args) {

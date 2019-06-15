@@ -1,4 +1,4 @@
-package src.com.wzxdm.demo04Set;
+package src.com.wzxdm.demo05Set;
 
 import src.com.wzxdm.demo01.Person;
 
