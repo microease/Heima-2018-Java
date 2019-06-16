@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="" />
+    <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,9 +97,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="404" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="496" />
+    <option name="y" value="332" />
     <option name="width" value="1872" />
     <option name="height" value="1044" />
   </component>
@@ -110,6 +112,18 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,18 +161,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-2018-Java" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Heima-2018-Java" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +174,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -310,16 +312,17 @@
       <workItem from="1560579735759" duration="1080000" />
       <workItem from="1560584774669" duration="4181000" />
       <workItem from="1560614233185" duration="1203000" />
+      <workItem from="1560623003580" duration="1588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182830000" />
+    <option name="totallyTimeSpent" value="184418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="34" width="1933" height="1053" extended-state="7" />
+    <frame x="-6" y="34" width="1933" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.1584" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.16" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -777,20 +780,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo02KeySet.java">
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo01Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        <state relative-caret-position="413">
+          <caret line="20" column="28" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo01Map.java">
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo02KeySet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="20" column="28" selection-start-line="18" selection-start-column="8" selection-end-line="20" selection-end-column="28" />
+        <state relative-caret-position="503">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
