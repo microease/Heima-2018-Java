@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo03EntrySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo04HashMapSavePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo05Hashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo05LinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo06SumStringTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo07JDK9OF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,7 +20,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,11 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/Weapon.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/Skill.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/SkillImpl.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/Hero.java" />
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/DemoMain.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/DemoInterface.java" />
         <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/red/OpenMode.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Demo01ToString.java" />
@@ -97,10 +104,15 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo03EntrySet.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/Person.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo04HashMapSavePerson.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo05LinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo05Hashtable.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo06SumStringTimes.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo07JDK9OF.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="496" />
     <option name="y" value="332" />
     <option name="width" value="1872" />
@@ -115,6 +127,7 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -157,13 +170,12 @@
               <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo07Map" type="462c0819:PsiDirectoryNode" />
+              <item name="demo08debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +189,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -201,9 +213,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo04HashMapSavePerson">
-    <configuration name="demo01Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo01Map" />
+  <component name="RunManager" selected="Application.demo01deBug">
+    <configuration name="demo01deBug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo08debug.demo01deBug" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo08debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo05Hashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo05Hashtable" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -215,21 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo01Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo06Collections.demo01Sort" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo06Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo02KeySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo02KeySet" />
+    <configuration name="demo05LinkedHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo05LinkedHashMap" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -241,8 +253,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo03EntrySet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo03EntrySet" />
+    <configuration name="demo06SumStringTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo06SumStringTimes" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -254,8 +266,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo04HashMapSavePerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo04HashMapSavePerson" />
+    <configuration name="demo07JDK9OF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo07JDK9OF" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -269,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo04HashMapSavePerson" />
-        <item itemvalue="Application.demo03EntrySet" />
-        <item itemvalue="Application.demo02KeySet" />
-        <item itemvalue="Application.demo01Map" />
-        <item itemvalue="Application.demo01Sort" />
+        <item itemvalue="Application.demo01deBug" />
+        <item itemvalue="Application.demo07JDK9OF" />
+        <item itemvalue="Application.demo06SumStringTimes" />
+        <item itemvalue="Application.demo05Hashtable" />
+        <item itemvalue="Application.demo05LinkedHashMap" />
       </list>
     </recent_temporary>
   </component>
@@ -317,16 +329,19 @@
       <workItem from="1560614233185" duration="1203000" />
       <workItem from="1560623003580" duration="1588000" />
       <workItem from="1560648479138" duration="5491000" />
+      <workItem from="1560664871195" duration="3656000" />
+      <workItem from="1560669745171" duration="5550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189909000" />
+    <option name="totallyTimeSpent" value="199115000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.12153518" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15191898" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -347,7 +362,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3237868" />
-      <window_info anchor="bottom" id="调试" order="13" weight="0.32982087" />
+      <window_info anchor="bottom" id="调试" order="13" weight="0.32924107" />
       <window_info anchor="bottom" id="缩略图" order="14" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -364,49 +379,37 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo12/DemoInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/red/OpenMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/demo13/BootStrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1228#1229#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Demo01ToString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Java/jdk-9/lib/src.zip!/java.base/java/text/Format.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -688,16 +691,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo04HashMapSavePerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -711,6 +704,63 @@
             <element signature="e#620#621#0" expanded="true" />
             <element signature="e#650#651#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo04HashMapSavePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo05Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo05LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo06SumStringTimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo07JDK9OF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
