@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo01Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo02Exception.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo09DouDiZhu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo09DouDiZhu.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -321,12 +317,12 @@
       <workItem from="1560664871195" duration="3656000" />
       <workItem from="1560669745171" duration="5550000" />
       <workItem from="1560687578116" duration="5225000" />
-      <workItem from="1560743927145" duration="5654000" />
+      <workItem from="1560743927145" duration="5812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209994000" />
+    <option name="totallyTimeSpent" value="210152000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
@@ -341,7 +337,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.55915177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55915177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
