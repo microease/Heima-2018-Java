@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo01Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo02Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo09DouDiZhu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Heima-2018-Java/src/com/wzxdm/demo09DouDiZhu.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_4_继承与多态/src/com.wzxdm/red/OpenMode.java" />
-        <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Demo01ToString.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo01/Person.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo01Date.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo02DateFormat.java" />
@@ -95,6 +96,8 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" />
+        <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo01Exception.java" />
+        <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo02Exception.java" />
       </list>
     </option>
   </component>
@@ -124,20 +127,28 @@
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
+              <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
+              <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
+              <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="demo01Throwable" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,7 +202,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo09DouDiZhu">
+  <component name="RunManager" selected="Application.demo02Exception">
+    <configuration name="demo01Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Throwable.demo01Exception" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo01Throwable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo01deBug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo08debug.demo01deBug" />
       <module name="Heima-2018-Java" />
@@ -205,25 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo05Hashtable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo05Hashtable" />
+    <configuration name="demo02Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Throwable.demo02Exception" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo07Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo06SumStringTimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo07Map.demo06SumStringTimes" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo07Map.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo01Throwable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo02Exception" />
+        <item itemvalue="Application.demo01Exception" />
         <item itemvalue="Application.demo09DouDiZhu" />
         <item itemvalue="Application.demo01deBug" />
         <item itemvalue="Application.demo07JDK9OF" />
-        <item itemvalue="Application.demo06SumStringTimes" />
-        <item itemvalue="Application.demo05Hashtable" />
       </list>
     </recent_temporary>
   </component>
@@ -310,17 +321,17 @@
       <workItem from="1560664871195" duration="3656000" />
       <workItem from="1560669745171" duration="5550000" />
       <workItem from="1560687578116" duration="5225000" />
-      <workItem from="1560743927145" duration="792000" />
+      <workItem from="1560743927145" duration="5654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205132000" />
+    <option name="totallyTimeSpent" value="209994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15511727" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15511727" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +341,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3314732" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.55915177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,20 +400,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Java/jdk-9/lib/src.zip!/java.base/java/text/DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-395">
-          <caret line="372" column="35" lean-forward="true" selection-start-line="372" selection-start-column="35" selection-end-line="372" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk-9/lib/src.zip!/java.base/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="438" column="40" lean-forward="true" selection-start-line="438" selection-start-column="40" selection-end-line="438" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo01Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -671,6 +668,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo01Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo02Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
