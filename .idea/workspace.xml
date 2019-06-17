@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" beforeDir="false" afterPath="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,32 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1006">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="89" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="89" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,7 +70,6 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInterfaceImp2.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo05GenericInerface.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo02e/demo06Generic.java" />
-        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04List/demo01List.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04List/demo02LinkList.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo04List/demo02LinkedList.java" />
@@ -119,6 +93,7 @@
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo06SumStringTimes.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo07Map/demo07JDK9OF.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo08debug/demo01deBug.java" />
+        <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java" />
         <option value="$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java" />
       </list>
     </option>
@@ -138,6 +113,7 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,14 +139,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_6_集合" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo03doudizhu" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -343,17 +310,17 @@
       <workItem from="1560664871195" duration="3656000" />
       <workItem from="1560669745171" duration="5550000" />
       <workItem from="1560687578116" duration="5225000" />
+      <workItem from="1560743927145" duration="792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204340000" />
+    <option name="totallyTimeSpent" value="205132000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="34" width="1933" height="1053" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.1536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15511727" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -692,8 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo03doudizhu/demo01DouDiZhu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="89" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="89" />
+        <state relative-caret-position="264">
+          <caret line="31" column="52" lean-forward="true" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -702,11 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_6_集合/src/com.wzxdm/demo09DouDiZhu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1006">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="233">
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
         </state>
       </provider>
     </entry>

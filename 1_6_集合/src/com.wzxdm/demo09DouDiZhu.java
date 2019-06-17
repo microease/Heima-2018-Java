@@ -64,18 +64,19 @@ public class demo09DouDiZhu {
         Collections.sort(player02);
         Collections.sort(player03);
         Collections.sort(diPai);
-        lookPoker("刘德华",poker,player01);
-        lookPoker("周润发",poker,player02);
-        lookPoker("周星驰",poker,player03);
-        lookPoker("底牌",poker,diPai);
+        lookPoker("刘德华", poker, player01);
+        lookPoker("周润发", poker, player02);
+        lookPoker("周星驰", poker, player03);
+        lookPoker("底牌", poker, diPai);
 
     }
+
     //看牌
-    public static void lookPoker(String name,HashMap<Integer,String> poker,ArrayList<Integer> list){
-        System.out.print(name+":");
+    public static void lookPoker(String name, HashMap<Integer, String> poker, ArrayList<Integer> list) {
+        System.out.print(name + ":");
         for (Integer key : list) {
             String value = poker.get(key);
-            System.out.print(value+" ");
+            System.out.print(value + " ");
         }
         System.out.println();
 
