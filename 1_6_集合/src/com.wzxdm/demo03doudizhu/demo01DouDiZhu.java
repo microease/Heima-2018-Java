@@ -45,12 +45,10 @@ public class demo01DouDiZhu {
             }
         }
         //看牌
-        System.out.println("player01："+player01);
-        System.out.println("player02："+player02);
-        System.out.println("player03："+player03);
-        System.out.println("底牌："+diPai);
-
-
+        System.out.println("player01：" + player01);
+        System.out.println("player02：" + player02);
+        System.out.println("player03：" + player03);
+        System.out.println("底牌：" + diPai);
 
     }
 }
