@@ -17,4 +17,5 @@ public class demo06TryCatch  {
             throw new FileNotFoundException("文件的后缀名不对");
         }
     }
+    //测试
 }
