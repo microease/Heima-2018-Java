@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6792a3-126f-448d-a1c5-232468e8a7e3" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo03Throw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo04Objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo05Throws.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,21 +15,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo04Objects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo02DateFormat.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo03Life.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo03/demo01Calender.java" />
         <option value="$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo4/demo01System.java" />
@@ -110,6 +93,7 @@
         <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo02Exception.java" />
         <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo03Throw.java" />
         <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo04Objects.java" />
+        <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo05Throws.java" />
       </list>
     </option>
   </component>
@@ -214,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo04Objects">
+  <component name="RunManager" selected="Application.demo05Throws">
     <configuration name="demo01Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Throwable.demo01Exception" />
       <module name="Heima-2018-Java" />
@@ -267,12 +251,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo09DouDiZhu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo09DouDiZhu" />
+    <configuration name="demo05Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Throwable.demo05Throws" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo01Throwable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo05Throws" />
         <item itemvalue="Application.demo04Objects" />
         <item itemvalue="Application.demo03Throw" />
         <item itemvalue="Application.demo02Exception" />
         <item itemvalue="Application.demo01Exception" />
-        <item itemvalue="Application.demo09DouDiZhu" />
       </list>
     </recent_temporary>
   </component>
@@ -335,18 +319,17 @@
       <workItem from="1560687578116" duration="5225000" />
       <workItem from="1560743927145" duration="5812000" />
       <workItem from="1560781367106" duration="1263000" />
-      <workItem from="1560908260512" duration="3787000" />
+      <workItem from="1560908260512" duration="6490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215202000" />
+    <option name="totallyTimeSpent" value="217905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15831557" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49860334" visible="true" weight="0.15831557" />
       <window_info id="Structure" order="1" sideWeight="0.50139666" side_tool="true" weight="0.13968481" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -356,7 +339,7 @@
       <window_info id="设计器" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3046875" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3046875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,16 +398,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo02/demo02DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_5_常用API第二部分/src/com.wzxdm/demo03/demo01Calender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -669,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo03Throw.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo02Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -693,14 +659,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo05Throws.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo03Throw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo01Throwable/demo04Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-          <folding>
-            <element signature="e#112#113#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
