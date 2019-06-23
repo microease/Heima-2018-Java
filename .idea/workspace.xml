@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="496" />
     <option name="y" value="332" />
     <option name="width" value="1872" />
@@ -47,29 +47,14 @@
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
               <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
               <item name="demo01Throwable" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,16 +112,17 @@
       <workItem from="1561088799596" duration="832000" />
       <workItem from="1561168022145" duration="2290000" />
       <workItem from="1561214757276" duration="493000" />
+      <workItem from="1561253328399" duration="774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5391000" />
+    <option name="totallyTimeSpent" value="6165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="23" width="1872" height="1057" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14153005" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
