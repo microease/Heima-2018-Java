@@ -1,17 +1,15 @@
 package src.com.wzxdm.demo01Throwable;
 
 import java.io.FileNotFoundException;
-import java.io.IOException;
 
-public class demo06TryCatch  {
+public class demo07Finally {
     public static void main(String[] args) {
-        try{
-            readFile("d:\\a.txt");
-        }catch (IOException e){
-            System.out.println("传递的文件后缀不是.txt");
-            //Throwable定义了三个异常处理方法
-            System.out.println(e.toString());
+        try {
+            readFile("a.txt");
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
+        }finally {
+            System.out.println("无论是否出现异常，都会执行");
         }
     }
     public static void readFile(String fileName) throws FileNotFoundException {
@@ -19,5 +17,4 @@ public class demo06TryCatch  {
             throw new FileNotFoundException("文件的后缀名不对");
         }
     }
-    //测试
 }
