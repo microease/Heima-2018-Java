@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo02Thread/demo04InnerClassThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="563">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
               <folding>
                 <element signature="e#128#303#0" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
@@ -144,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo03Runnable">
+  <component name="RunManager" selected="Application.demo04InnerClassThread">
     <configuration name="demo01Sleep" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02Thread.demo01Sleep" />
       <module name="Heima-2018-Java" />
@@ -171,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo10RegisterException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo01Throwable.demo10RegisterException" />
+    <configuration name="demo04InnerClassThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02Thread.demo04InnerClassThread" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo01Throwable.*" />
+          <option name="PATTERN" value="src.com.wzxdm.demo02Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo04InnerClassThread" />
         <item itemvalue="Application.demo03Runnable" />
         <item itemvalue="Application.demo01Sleep" />
         <item itemvalue="Application.demo12ThreadName" />
         <item itemvalue="Application.demo11ThreadName" />
-        <item itemvalue="Application.demo10RegisterException" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +240,12 @@
       <workItem from="1561391715194" duration="2331000" />
       <workItem from="1561425990561" duration="15642000" />
       <workItem from="1561503133253" duration="1827000" />
-      <workItem from="1561513905396" duration="3317000" />
+      <workItem from="1561513905396" duration="3966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33075000" />
+    <option name="totallyTimeSpent" value="33724000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -260,7 +260,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50052685" side_tool="true" weight="0.1419214" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3560268" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38839287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -392,8 +392,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo02Thread/demo04InnerClassThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="563">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="e#128#303#0" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />

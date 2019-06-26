@@ -10,6 +10,22 @@ public class demo04InnerClassThread {
                 }
             }
         }.start();
-
+        Runnable r = new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 0; i < 20; i++) {
+                    System.out.println(Thread.currentThread().getName()+"-->"+"huyankai");
+                }
+            }
+        };
+        new Thread(r).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 0; i <20 ; i++) {
+                    System.out.println(Thread.currentThread().getName()+"-->"+"huxiaoyi");
+                }
+            }
+        }).start();
     }
 }
