@@ -24,26 +24,7 @@
     <favorites_list name="Heima-2018-Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/RunableImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/demo01Ticket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +62,9 @@
         <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo02Thread/demo06Thread.java" />
         <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/demo01Ticket.java" />
         <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/RunableImpl.java" />
+        <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo04Synchronized/demo01Ticket.java" />
+        <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo04Synchronized/RunableImpl.java" />
+        <option value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo05Lock/RunableImpl.java" />
       </list>
     </option>
   </component>
@@ -118,7 +102,7 @@
               <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
               <item name="1_7_异常与多线程" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="demo03ThreadSafe" type="462c0819:PsiDirectoryNode" />
+              <item name="demo05Lock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
@@ -137,11 +121,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo05Lock" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-2018-Java\1_7_异常与多线程\src\com.wzxdm\demo05Lock" />
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-2018-Java\1_7_异常与多线程\src\com.wzxdm\demo04Synchronized" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo01Ticket">
+  <component name="RunManager" selected="Application.demo01Ticket (2)">
     <configuration name="Demo05MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02Thread.Demo05MainThread" />
       <module name="Heima-2018-Java" />
@@ -169,38 +159,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="demo01Ticket (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo04Synchronized.demo01Ticket" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo04Synchronized.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo01Ticket (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo05Lock.demo01Ticket" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.demo05Lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="demo01Ticket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo03ThreadSafe.demo01Ticket" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.wzxdm.demo03ThreadSafe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo03Runnable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02Thread.demo03Runnable" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo02Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo04InnerClassThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.demo02Thread.demo04InnerClassThread" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.demo02Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo01Ticket (2)" />
+        <item itemvalue="Application.demo01Ticket (1)" />
         <item itemvalue="Application.demo01Ticket" />
         <item itemvalue="Application.demo06Thread" />
         <item itemvalue="Application.Demo05MainThread" />
-        <item itemvalue="Application.demo04InnerClassThread" />
-        <item itemvalue="Application.demo03Runnable" />
       </list>
     </recent_temporary>
   </component>
@@ -257,16 +247,17 @@
       <workItem from="1561770840234" duration="6582000" />
       <workItem from="1561822146822" duration="92000" />
       <workItem from="1561822377092" duration="849000" />
+      <workItem from="1561880506422" duration="4951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44678000" />
+    <option name="totallyTimeSpent" value="49629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49947312" visible="true" weight="0.15138593" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947312" visible="true" weight="0.15298508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -450,17 +441,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/RunableImpl.java">
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/demo01Ticket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/demo01Ticket.java">
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo03ThreadSafe/RunableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo04Synchronized/demo01Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo04Synchronized/RunableImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo05Lock/demo01Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo05Lock/RunableImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
