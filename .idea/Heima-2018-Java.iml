@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1_5_常用API第二部分" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_6_集合" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_7_异常与多线程" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_8_File类与IO流" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
