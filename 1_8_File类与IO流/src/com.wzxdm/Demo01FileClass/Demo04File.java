@@ -13,6 +13,7 @@ public class Demo04File {
         System.out.println(f2.exists());
         File f3 = new File("a.txt");
         System.out.println(f3.exists());
+        System.out.println(f1.isDirectory());
 
 
 
