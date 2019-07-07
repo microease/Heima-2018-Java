@@ -15,12 +15,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo05File.java">
+        <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo01Recursion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="210">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -59,6 +60,8 @@
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo04File.java" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/1.txt" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo05File.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo06File.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo01Recursion.java" />
       </list>
     </option>
   </component>
@@ -74,7 +77,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -107,21 +109,13 @@
               <item name="1_8_File类与IO流" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo01FileClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="1_8_File类与IO流" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo01FileClass" type="462c0819:PsiDirectoryNode" />
-              <item name="aaa" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo02Recursion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,26 +146,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo05File">
-    <configuration name="Demo01File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo01File" />
+  <component name="RunManager" selected="Application.Demo01Recursion">
+    <configuration name="Demo01Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo01Recursion" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo02File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo02File" />
-      <module name="Heima-2018-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,13 +199,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo06File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo06File" />
+      <module name="Heima-2018-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01Recursion" />
+        <item itemvalue="Application.Demo06File" />
         <item itemvalue="Application.Demo05File" />
         <item itemvalue="Application.Demo04File" />
         <item itemvalue="Application.Demo03File" />
-        <item itemvalue="Application.Demo02File" />
-        <item itemvalue="Application.Demo01File" />
       </list>
     </recent_temporary>
   </component>
@@ -241,17 +235,18 @@
       <workItem from="1562121968667" duration="12381000" />
       <workItem from="1562212288500" duration="6167000" />
       <workItem from="1562397594881" duration="8723000" />
+      <workItem from="1562482767865" duration="2118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27271000" />
+    <option name="totallyTimeSpent" value="29389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -260,7 +255,7 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46316963" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46316963" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -442,10 +437,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo05File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="450">
+          <caret line="21" column="68" lean-forward="true" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo06File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo01Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
           </folding>
         </state>
       </provider>
