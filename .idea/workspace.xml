@@ -13,21 +13,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo01Recursion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,6 +48,11 @@
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo05File.java" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo01FileClass/Demo06File.java" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo01Recursion.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo02RecursionSum.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo03Recursion.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo04Recursion.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FinaJava.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FindJava.java" />
       </list>
     </option>
   </component>
@@ -146,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01Recursion">
+  <component name="RunManager" selected="Application.Demo05FindJava">
     <configuration name="Demo01Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo01Recursion" />
       <module name="Heima-2018-Java" />
@@ -160,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo03File" />
+    <configuration name="Demo02RecursionSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo02RecursionSum" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo04File" />
+    <configuration name="Demo03Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo03Recursion" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo05File" />
+    <configuration name="Demo04Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo04Recursion" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +190,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo06File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo01FileClass.Demo06File" />
+    <configuration name="Demo05FindJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo05FindJava" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo01FileClass.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo05FindJava" />
+        <item itemvalue="Application.Demo04Recursion" />
+        <item itemvalue="Application.Demo03Recursion" />
+        <item itemvalue="Application.Demo02RecursionSum" />
         <item itemvalue="Application.Demo01Recursion" />
-        <item itemvalue="Application.Demo06File" />
-        <item itemvalue="Application.Demo05File" />
-        <item itemvalue="Application.Demo04File" />
-        <item itemvalue="Application.Demo03File" />
       </list>
     </recent_temporary>
   </component>
@@ -235,18 +226,17 @@
       <workItem from="1562121968667" duration="12381000" />
       <workItem from="1562212288500" duration="6167000" />
       <workItem from="1562397594881" duration="8723000" />
-      <workItem from="1562482767865" duration="2118000" />
+      <workItem from="1562482767865" duration="8172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29389000" />
+    <option name="totallyTimeSpent" value="35443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -255,7 +245,7 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46316963" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.51116073" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,12 +448,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo01Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="118">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo02RecursionSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo03Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FindJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo04Recursion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="30" lean-forward="true" selection-end-line="21" />
         </state>
       </provider>
     </entry>
