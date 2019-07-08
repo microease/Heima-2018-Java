@@ -13,7 +13,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,6 +53,9 @@
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo04Recursion.java" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FinaJava.java" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FindJava.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo03Filter/FileFilterImpl.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo03Filter/Demo01Filter.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo03Filter/Demo02Filter.java" />
       </list>
     </option>
   </component>
@@ -68,7 +71,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,13 +103,13 @@
               <item name="1_8_File类与IO流" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo02Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo03Filter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,9 +140,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo05FindJava">
-    <configuration name="Demo01Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo01Recursion" />
+  <component name="RunManager" selected="Application.Demo01Filter">
+    <configuration name="Demo01Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo01Filter" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -205,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo01Filter" />
         <item itemvalue="Application.Demo05FindJava" />
         <item itemvalue="Application.Demo04Recursion" />
         <item itemvalue="Application.Demo03Recursion" />
         <item itemvalue="Application.Demo02RecursionSum" />
-        <item itemvalue="Application.Demo01Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -227,16 +230,17 @@
       <workItem from="1562212288500" duration="6167000" />
       <workItem from="1562397594881" duration="8723000" />
       <workItem from="1562482767865" duration="8172000" />
+      <workItem from="1562557451029" duration="6417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35443000" />
+    <option name="totallyTimeSpent" value="41860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1609808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -245,7 +249,7 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.51116073" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3247768" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,17 +471,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FindJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo04Recursion.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="11" column="30" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo02Recursion/Demo05FindJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk-9.0.4/lib/src.zip!/java.base/java/io/FileFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo03Filter/FileFilterImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="66" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="12" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo03Filter/Demo01Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="19" lean-forward="true" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo03Filter/Demo02Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
