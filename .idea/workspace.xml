@@ -13,12 +13,24 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo01OutputStream.java">
+        <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo05Reader/Demo01Reader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="300">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo06CopyFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="11" column="175" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="175" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,6 +84,13 @@
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/a.txt" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo02OutputStream.java" />
         <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo01OutputStream.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo03OutputStream.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/c.txt" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo04InputStream.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo05InputStream.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo06CopyFile.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo07InputStream.java" />
+        <option value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo05Reader/Demo01Reader.java" />
       </list>
     </option>
   </component>
@@ -87,7 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -122,16 +140,26 @@
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
               <item name="Demo04OutputStream" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_8_File类与IO流" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo05Reader" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -139,6 +167,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="src.com.wzxdm" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-2018-Java\1_8_File类与IO流\src\com.wzxdm\Demo04OutputStream" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="src.com.wzxdm.demo08Lambda" />
@@ -156,13 +187,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01OutputStream">
-    <configuration name="Demo01Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo01Filter" />
+  <component name="RunManager" selected="Application.Demo01Reader">
+    <configuration name="Demo01Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo05Reader.Demo01Reader" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo05Reader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,8 +201,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo01OutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo04OutputStream.Demo01OutputStream" />
+    <configuration name="Demo04InputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo04OutputStream.Demo04InputStream" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -183,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02OutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo04OutputStream.Demo02OutputStream" />
+    <configuration name="Demo05InputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo04OutputStream.Demo05InputStream" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
@@ -196,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo04Recursion" />
+    <configuration name="Demo06CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo04OutputStream.Demo06CopyFile" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo04OutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05FindJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02Recursion.Demo05FindJava" />
+    <configuration name="Demo07InputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo04OutputStream.Demo07InputStream" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo02Recursion.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo04OutputStream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01OutputStream" />
-        <item itemvalue="Application.Demo02OutputStream" />
-        <item itemvalue="Application.Demo01Filter" />
-        <item itemvalue="Application.Demo05FindJava" />
-        <item itemvalue="Application.Demo04Recursion" />
+        <item itemvalue="Application.Demo01Reader" />
+        <item itemvalue="Application.Demo07InputStream" />
+        <item itemvalue="Application.Demo06CopyFile" />
+        <item itemvalue="Application.Demo05InputStream" />
+        <item itemvalue="Application.Demo04InputStream" />
       </list>
     </recent_temporary>
   </component>
@@ -248,17 +279,18 @@
       <workItem from="1562482767865" duration="8172000" />
       <workItem from="1562557451029" duration="6417000" />
       <workItem from="1562638719316" duration="7128000" />
+      <workItem from="1562810193295" duration="12111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48988000" />
+    <option name="totallyTimeSpent" value="61099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16257995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1641791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -267,7 +299,7 @@
       <window_info id="设计器" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3247768" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39285713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -543,10 +575,17 @@
     <entry file="file://$PROJECT_DIR$/2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo02OutputStream.java">
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/a.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state>
+          <caret column="1" lean-forward="true" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo01OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -560,17 +599,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/a.txt">
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo02OutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="8" column="177" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="177" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo01OutputStream.java">
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo03OutputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="210">
+          <caret line="7" column="168" lean-forward="true" selection-start-line="7" selection-start-column="168" selection-end-line="7" selection-end-column="168" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo04InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/path+java.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/c.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo05InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="9" column="165" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="165" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo07InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo04OutputStream/Demo06CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="11" column="175" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="175" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_8_File类与IO流/src/com.wzxdm/Demo05Reader/Demo01Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
