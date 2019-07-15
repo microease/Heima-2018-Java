@@ -10,7 +10,7 @@ public class Demo04BufferedWriter {
         BufferedWriter bw = new BufferedWriter(new FileWriter("C:\\Users\\microease\\Documents\\GitHub\\Heima-2018-Java\\1_8_File类与IO流\\src\\com.wzxdm\\Demo07Buffered\\b.txt"));
         //调用writter来写
         for (int i = 0; i < 10; i++) {
-            bw.write("传智播客");
+            bw.write("传智播客"+i);
             bw.newLine();
         }
         bw.flush();
