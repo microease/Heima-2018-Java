@@ -3,8 +3,8 @@ package src.com.wzxdm.Demo09ObjectStream;
 import java.io.Serializable;
 
 public class Demo09Personal implements Serializable {
-    private String name;
-    private int age;
+    public  transient String name;
+    public  transient int age;
 
     public Demo09Personal() {
     }
