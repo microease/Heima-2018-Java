@@ -31,8 +31,8 @@ public class Person {
 //        if (obj == this) {
 //            return true;
 //        }
-//        if (obj instanceof Person) {
-//            Person p = (Person) obj;
+//        if (obj instanceof Demo09Person) {
+//            Demo09Person p = (Demo09Person) obj;
 //            boolean b = this.name.equals(p.name) && this.age == p.age;
 //            return b;
 //        }

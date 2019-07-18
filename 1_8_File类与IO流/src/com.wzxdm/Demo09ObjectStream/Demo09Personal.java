@@ -1,23 +1,17 @@
-package src.com.wzxdm.demo07Map;
+package src.com.wzxdm.Demo09ObjectStream;
 
-public class Person {
+import java.io.Serializable;
+
+public class Demo09Personal implements Serializable {
     private String name;
     private int age;
 
-    public Person() {
+    public Demo09Personal() {
     }
 
-    public Person(String name, int age) {
+    public Demo09Personal(String name, int age) {
         this.name = name;
         this.age = age;
-    }
-
-    @Override
-    public String toString() {
-        return "Demo09Person{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
     }
 
     public String getName() {
