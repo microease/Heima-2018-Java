@@ -3,13 +3,6 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/1_1_Java基础语法" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1_2_面向对象和封装" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1_3_常用API第一部分" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1_4_继承与多态" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1_5_常用API第二部分" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1_6_集合" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/1_7_异常与多线程" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_8_File类与IO流" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />

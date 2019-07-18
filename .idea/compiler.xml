@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo08Lambda/demo03Arrays.java" />
+      <file url="file://$PROJECT_DIR$/1_7_异常与多线程/src/com.wzxdm/demo02Thread/Demo05MainThread.java" />
+    </excludeFromCompile>
+  </component>
+</project>
