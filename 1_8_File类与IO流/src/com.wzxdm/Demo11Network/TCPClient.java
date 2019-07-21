@@ -18,6 +18,5 @@ public class TCPClient {
         //5 使用网络字节输入流InputStream对象中的方法read，读取服务器回写的数据
         //6 释放资源
         socket.close();
-
     }
 }
