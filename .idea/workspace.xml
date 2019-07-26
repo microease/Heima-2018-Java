@@ -39,6 +39,8 @@
         <option value="$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo02_Lambda/Demo14Function.java" />
         <option value="$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo02_Lambda/Demo15Function_andThen.java" />
         <option value="$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo02_Lambda/Demo16Test.java" />
+        <option value="$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo03Stream/Demo01GetStream.java" />
+        <option value="$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo03Stream/Demo02Stream_Foreach.java" />
       </list>
     </option>
   </component>
@@ -54,7 +56,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,11 +82,19 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-2018-Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-2018-Java" type="462c0819:PsiDirectoryNode" />
+              <item name="1_10_JDK8新特性" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo03Stream" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,13 +121,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo16Test">
-    <configuration name="Demo12Predicate_negate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo02_Lambda.Demo12Predicate_negate" />
+  <component name="RunManager" selected="Application.Demo02Stream_Foreach">
+    <configuration name="Demo02Stream_Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.wzxdm.Demo03Stream.Demo02Stream_Foreach" />
       <module name="Heima-2018-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.com.wzxdm.Demo02_Lambda.*" />
+          <option name="PATTERN" value="src.com.wzxdm.Demo03Stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo02Stream_Foreach" />
         <item itemvalue="Application.Demo16Test" />
         <item itemvalue="Application.Demo15Function_andThen" />
         <item itemvalue="Application.Demo14Function" />
         <item itemvalue="Application.Demo13Test" />
-        <item itemvalue="Application.Demo12Predicate_negate" />
       </list>
     </recent_temporary>
   </component>
@@ -201,17 +211,18 @@
       <workItem from="1563931729754" duration="20000" />
       <workItem from="1563931803719" duration="17608000" />
       <workItem from="1563974061213" duration="1649000" />
-      <workItem from="1564106484451" duration="1204000" />
+      <workItem from="1564106484451" duration="1360000" />
+      <workItem from="1564110433861" duration="7201000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28449000" />
+    <option name="totallyTimeSpent" value="35806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17643923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -302,8 +313,25 @@
     <entry file="file://$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo02_Lambda/Demo15Function_andThen.java" />
     <entry file="file://$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo02_Lambda/Demo16Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="210">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo03Stream/Demo01GetStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="18" column="49" lean-forward="true" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_10_JDK8新特性/src/com.wzxdm/Demo03Stream/Demo02Stream_Foreach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
         </state>
       </provider>
     </entry>
