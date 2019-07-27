@@ -1,4 +1,4 @@
-package src.com.wzxdm.Demo03Stream;
+package src.com.wzxdm.Demo03_Stream;
 
 import java.util.ArrayList;
 
