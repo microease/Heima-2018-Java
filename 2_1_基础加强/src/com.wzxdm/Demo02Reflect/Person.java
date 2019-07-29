@@ -35,5 +35,11 @@ public class Person {
                 ", d='" + d + '\'' +
                 '}';
     }
+    public void eat(){
+        System.out.println("eat");
+    }
+    public void eat(String food){
+        System.out.println("吃。"+food);
+    }
 }
 
