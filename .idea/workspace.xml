@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Person.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding>
                 <element signature="e#312#313#0" expanded="true" />
                 <element signature="e#339#340#0" expanded="true" />
@@ -97,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,7 +136,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,6 +267,7 @@
       <workItem from="1564334184423" duration="600000" />
       <workItem from="1564368431684" duration="11743000" />
       <workItem from="1564413703122" duration="651000" />
+      <workItem from="1564502441446" duration="404000" />
     </task>
     <servers />
   </component>
@@ -285,13 +286,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56959000" />
+    <option name="totallyTimeSpent" value="57363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="954" y="34" width="973" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25245902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25792348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -483,7 +484,7 @@
     <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding>
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#339#340#0" expanded="true" />
