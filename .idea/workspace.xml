@@ -15,15 +15,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Person.java">
+        <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/annotation/AnnoDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="360">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding>
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-                <element signature="e#379#380#0" expanded="true" />
-                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,14 +81,15 @@
         <option value="$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/pro.properties" />
         <option value="$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Person.java" />
         <option value="$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/ReflectDemo01.java" />
+        <option value="$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/annotation/AnnoDemo1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1908" />
-    <option name="y" value="68" />
-    <option name="width" value="1946" />
-    <option name="height" value="2106" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="170" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -128,14 +127,14 @@
               <item name="2_1_基础加强" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com.wzxdm" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo02Reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,6 +266,7 @@
       <workItem from="1564334184423" duration="600000" />
       <workItem from="1564368431684" duration="11743000" />
       <workItem from="1564413703122" duration="651000" />
+      <workItem from="1564542325288" duration="3118000" />
     </task>
     <servers />
   </component>
@@ -285,13 +285,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56959000" />
+    <option name="totallyTimeSpent" value="60077000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="954" y="34" width="973" height="1053" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25245902" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1881663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -306,7 +305,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.328125" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -476,19 +475,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/pro.properties" />
-    <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/ReflectTest.java" />
     <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Student.java" />
     <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Demo3.java" />
     <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/ReflectDemo01.java" />
     <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#312#313#0" expanded="true" />
             <element signature="e#339#340#0" expanded="true" />
             <element signature="e#379#380#0" expanded="true" />
             <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/Demo02Reflect/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_1_基础加强/src/com.wzxdm/annotation/AnnoDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
           </folding>
         </state>
       </provider>
