@@ -1,16 +1,4 @@
-package src.com.wzxdm.Demo03Test;
-
-import src.com.wzxdm.Demo01Junit.Calculate;
-
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
-import java.nio.Buffer;
-
-public class TestCheack {
-    public static void main(String[] args) throws IOException {
+public static void main(String[] args) throws IOException {
         // 创建计算器对象
         Calculate c = new Calculate();
         //获取字节码文件对象
