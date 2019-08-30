@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a846f92a-9d3b-4c2b-b5e7-43f6d1ac4081" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo01_jdbc/demo02_jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo01_jdbc/demo03_jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo01_jdbc/demo04_jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo01_jdbc/demo05_jdbc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +29,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -78,6 +75,7 @@
       <workItem from="1566678222920" duration="618000" />
       <workItem from="1566947201848" duration="2148000" />
       <workItem from="1567033440149" duration="2326000" />
+      <workItem from="1567153967764" duration="191000" />
     </task>
     <servers />
   </component>
