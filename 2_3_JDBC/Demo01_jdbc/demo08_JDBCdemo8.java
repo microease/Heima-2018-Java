@@ -1,6 +1,7 @@
 package Demo01_jdbc;
 
 import Demo02_domain.Emp;
+import util.JDBCUtils;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -17,9 +18,10 @@ public class demo08_JDBCdemo8 {
         ResultSet rs = null;
         Connection conn = null;
         try {
-            Class.forName("com.mysql.jdbc.Driver");
-            // 获取连接
-            conn = DriverManager.getConnection("jdbc:mysql////db3", "root", "root");
+//            Class.forName("com.mysql.jdbc.Driver");
+//            // 获取连接
+//            conn = DriverManager.getConnection("jdbc:mysql////db3", "root", "root");
+            conn = JDBCUtils.getConnection();
             //定义sal
             String sql = "select * from emp";
             // 获取执行sql的对象
@@ -50,34 +52,35 @@ public class demo08_JDBCdemo8 {
                 emp.setDept_id(dept_id);
                 //装载集合
                 list.add(emp);
-            }
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        } catch (SQLException e) {
+            }}
+//        } catch (ClassNotFoundException e) {
+//            e.printStackTrace();
+//        }
+        catch (SQLException e) {
             e.printStackTrace();
         } finally {
-            if (rs != null) {
-                try {
-                    rs.close();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }}
-            if (stmt != null) {
-                try {
-                    stmt.close();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-
-            }
-            if (conn != null) {
-                try {
-                    conn.close();
-                } catch (Exception e) {
-                    e.printStackTrace();
-                }
-            }
-
+//            if (rs != null) {
+//                try {
+//                    rs.close();
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }}
+//            if (stmt != null) {
+//                try {
+//                    stmt.close();
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }
+//
+//            }
+//            if (conn != null) {
+//                try {
+//                    conn.close();
+//                } catch (Exception e) {
+//                    e.printStackTrace();
+//                }
+//            }
+            JDBCUtils.close(rs,stmt,conn);
         }
         return null;
     }
