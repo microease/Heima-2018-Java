@@ -2,10 +2,7 @@ package Demo01_jdbc;
 
 import util.JDBCUtils;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Scanner;
 
 /**
@@ -30,23 +27,59 @@ public class demo09_JDBC {
             System.out.println("登录失败");
         }
     }
+//    public boolean login(String username, String password){
+//        if (username == null || password == null) {
+//            return false;
+//        }
+//        Connection conn = null;
+//        Statement stmt = null;
+//        ResultSet rs = null;
+//        //连接数据库判断是否登录成功
+//        // 获取连接
+//        try {
+//             conn = JDBCUtils.getConnection();
+//            //定义sql
+//            String sql = "select  * from user where username = '"+username+"' and password = '"+password+"'";
+//            //获取执行sql的对象
+//             stmt = conn.createStatement();
+//            //执行查询
+//             rs = stmt.executeQuery(sql);
+//            //判断
+////            if(rs.next()){
+////                return true;
+////            }else{
+////                return false;
+////            }
+//            return rs.next();
+//        } catch (SQLException e) {
+//            e.printStackTrace();
+//        }finally {
+//            JDBCUtils.close(rs,stmt,conn);
+//        }
+//
+//        return false;
+//
+//    }
     public boolean login(String username, String password){
         if (username == null || password == null) {
             return false;
         }
         Connection conn = null;
-        Statement stmt = null;
+        PreparedStatement pstmt = null;
         ResultSet rs = null;
         //连接数据库判断是否登录成功
         // 获取连接
         try {
-             conn = JDBCUtils.getConnection();
+            conn = JDBCUtils.getConnection();
             //定义sql
-            String sql = "select  * from user where username = '"+username+"' and password = '"+password+"'";
+            String sql = "select  * from user where username = ? and password = ?";
             //获取执行sql的对象
-             stmt = conn.createStatement();
+            pstmt = conn.prepareStatement(sql);
+            pstmt.setString(1,username);
+            pstmt.setString(2,password);
+
             //执行查询
-             rs = stmt.executeQuery(sql);
+            rs = pstmt.executeQuery();
             //判断
 //            if(rs.next()){
 //                return true;
@@ -57,7 +90,7 @@ public class demo09_JDBC {
         } catch (SQLException e) {
             e.printStackTrace();
         }finally {
-            JDBCUtils.close(rs,stmt,conn);
+            JDBCUtils.close(rs,pstmt,conn);
         }
 
         return false;
