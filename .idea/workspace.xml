@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a846f92a-9d3b-4c2b-b5e7-43f6d1ac4081" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo/c3p0demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo/druiddemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/c3p0-0.9.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mchange-commons-java-0.2.11.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_3_JDBC/Demo01_jdbc/demo09_JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_3_JDBC/Demo01_jdbc/demo09_JDBC.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +30,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,6 +45,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo" />
       <recent name="$PROJECT_DIR$/libs" />
     </key>
   </component>
@@ -134,6 +139,7 @@
       <workItem from="1567075755350" duration="3560000" />
       <workItem from="1567215475870" duration="708000" />
       <workItem from="1567467815046" duration="328000" />
+      <workItem from="1567524613024" duration="2696000" />
     </task>
     <servers />
   </component>
