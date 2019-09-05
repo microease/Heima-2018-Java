@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a846f92a-9d3b-4c2b-b5e7-43f6d1ac4081" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo/druiddemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo04_JDBCTemplate/JDBCTemplateDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/Demo04_JDBCTemplate/JDBCTemplateDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_3_JDBC/util/DuridUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/druid-1.0.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/druid-1.1.9-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/mchange-commons-java-0.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/spring-beans-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/spring-core-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/spring-jdbc-5.0.0.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/spring-tx-5.0.0.RELEASE.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo/druiddemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo/druiddemo01.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -183,6 +165,7 @@
       <workItem from="1567524613024" duration="2696000" />
       <workItem from="1567604549853" duration="71000" />
       <workItem from="1567604646770" duration="7218000" />
+      <workItem from="1567678231082" duration="246000" />
     </task>
     <servers />
   </component>
