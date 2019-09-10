@@ -61,10 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.07_JS对象_RegExp对象.html">
-    <configuration name="03_JS对象_Function.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/03_JS对象_Function.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.08_JS对象_Windows对象.html">
     <configuration name="04_JS对象_Array对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/04_JS对象_Array对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,13 +74,16 @@
     <configuration name="07_JS对象_RegExp对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/07_JS对象_RegExp对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="08_JS对象_Windows对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/08_JS对象_Windows对象.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.08_JS对象_Windows对象.html" />
         <item itemvalue="JavaScript Debug.07_JS对象_RegExp对象.html" />
         <item itemvalue="JavaScript Debug.06_JS对象_Math.html" />
         <item itemvalue="JavaScript Debug.05_JS对象_Date.html" />
         <item itemvalue="JavaScript Debug.04_JS对象_Array对象.html" />
-        <item itemvalue="JavaScript Debug.03_JS对象_Function.html" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +129,8 @@
       <workItem from="1567956513458" duration="85000" />
       <workItem from="1567956664770" duration="898000" />
       <workItem from="1567957861359" duration="1752000" />
+      <workItem from="1568129958312" duration="1049000" />
+      <workItem from="1568131774127" duration="415000" />
     </task>
     <servers />
   </component>
