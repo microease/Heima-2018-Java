@@ -27,7 +27,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2_5JavaScript/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -41,12 +41,13 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Demo03_JDBCDemo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Heima-2018-Java\2_5JavaScript\images" />
       <recent name="$PROJECT_DIR$/libs" />
       <recent name="$PROJECT_DIR$/2_3_JDBC/Demo03_JDBCDemo" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Demo03_JDBCDemo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -61,29 +62,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.08_JS对象_Windows对象.html">
-    <configuration name="04_JS对象_Array对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/04_JS对象_Array对象.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="05_JS对象_Date.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/05_JS对象_Date.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="06_JS对象_Math.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/06_JS对象_Math.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.11_Location对象.html">
     <configuration name="07_JS对象_RegExp对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/07_JS对象_RegExp对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="08_JS对象_Windows对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/08_JS对象_Windows对象.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="09_JS对象_计时器对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/09_JS对象_计时器对象.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="10_轮播图案例.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/10_轮播图案例.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="11_Location对象.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Heima-2018-Java/2_5JavaScript/11_Location对象.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.11_Location对象.html" />
+        <item itemvalue="JavaScript Debug.10_轮播图案例.html" />
+        <item itemvalue="JavaScript Debug.09_JS对象_计时器对象.html" />
         <item itemvalue="JavaScript Debug.08_JS对象_Windows对象.html" />
         <item itemvalue="JavaScript Debug.07_JS对象_RegExp对象.html" />
-        <item itemvalue="JavaScript Debug.06_JS对象_Math.html" />
-        <item itemvalue="JavaScript Debug.05_JS对象_Date.html" />
-        <item itemvalue="JavaScript Debug.04_JS对象_Array对象.html" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +132,7 @@
       <workItem from="1567957861359" duration="1752000" />
       <workItem from="1568129958312" duration="1049000" />
       <workItem from="1568131774127" duration="415000" />
+      <workItem from="1568170715323" duration="4627000" />
     </task>
     <servers />
   </component>
