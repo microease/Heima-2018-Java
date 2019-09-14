@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>轮播图案例</title>
+</head>
+<body>
+
+<script>
+    var img_num = 1;
+    function fun() {
+        img_num++;
+        if (img_num > 3) {
+            img_num = 1;
+        }
+        var img = document.getElementById("img");
+        img.src = "images/banner_" + img_num + ".jpg";
+    }
+    setInterval(fun,3000);
+
+</script>
+<img id="img" src="images/banner_1.jpg" alt="" width="100%">
+
+</body>
+</html>
