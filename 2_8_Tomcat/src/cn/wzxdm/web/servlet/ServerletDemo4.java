@@ -24,3 +24,8 @@ public class ServerletDemo4 extends HttpServlet {
         super.doGet(req, resp);
     }
 }
+
+
+//获取请求方式
+//getMethod()
+//
