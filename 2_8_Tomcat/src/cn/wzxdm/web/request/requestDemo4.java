@@ -9,18 +9,24 @@ import java.io.IOException;
 import java.util.Enumeration;
 
 @WebServlet("/RequestDemo1")
-public class RequestDemo1 extends HttpServlet {
+public class requestDemo4 extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        //获取所有请求头名称
-        Enumeration<String> headerNames = request.getHeaderNames();
-        //遍历
-        while (headerNames.hasMoreElements()) {
-            String name = headerNames.nextElement();
-            request.getHeader(name);
+        //获取请求头数据refer
+        String refer = request.getHeader("refer");
+        System.out.println(refer);
+        if (refer != null) {
+            if (refer.contains("/day14")) {
+                //正常访问
+                System.out.println("正常访问");
+                response.getWriter().write("正常访问");
+            } else {
+                System.out.println("盗链");
+            }
         }
+
     }
 }
