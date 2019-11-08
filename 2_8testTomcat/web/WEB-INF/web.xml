@@ -12,13 +12,4 @@
         <servlet-name>demo1</servlet-name>
         <url-pattern>/demo1</url-pattern>
     </servlet-mapping>
-    <servlet>
-        <servlet-name>demo2</servlet-name>
-        <servlet-class>cn.wzxdm.web.servlet.ServerletDemo2</servlet-class>
-        <load-on-startup></load-on-startup>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>demo2</servlet-name>
-        <url-pattern>/demo2</url-pattern>
-    </servlet-mapping>
 </web-app>
