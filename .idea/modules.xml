@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2-10Request和Response/2-10Request和Response.iml" filepath="$PROJECT_DIR$/2-10Request和Response/2-10Request和Response.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2_8_Tomcat/2_8_Tomcat.iml" filepath="$PROJECT_DIR$/2_8_Tomcat/2_8_Tomcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Heima-2018-Java.iml" filepath="$PROJECT_DIR$/.idea/Heima-2018-Java.iml" />
     </modules>
   </component>
