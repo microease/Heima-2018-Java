@@ -28,6 +28,8 @@ public class downloadServlet extends HttpServlet {
         String mimeType = servletContext.getMimeType(filename);//获取文件的mime类型
         resp.setHeader("content-type",mimeType);
         //设置响应头打开方式 content-disposition
+        //获取user-agent请求头
+        String header = req.getHeader("user-agent");
         resp.setHeader("cotent-disposition","attachment;filename=jpg");
         //将输入流的数据写出到输出流中
         ServletOutputStream sos = resp.getOutputStream();
