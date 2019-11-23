@@ -15,7 +15,7 @@ public class SessionDemo2 extends HttpServlet {
         //1 获取session
         HttpSession session = request.getSession();
         //2 存储数据
-        session.getAttribute("msg");
+        session.getAttribute("msg"    );
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
