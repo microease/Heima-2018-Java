@@ -1,14 +1,21 @@
 package src.com.wzxdm;
 
-import com.mysql.fabric.xmlrpc.base.Data;
+
+import java.util.Date;
 
 public class User {
     private String name;
     private int age;
-    private Data birthday;
+    private Date birthday;
 
     public String getName() {
         return name;
+    }
+
+    public User(String name, int age, Date birthday) {
+        this.name = name;
+        this.age = age;
+        this.birthday = birthday;
     }
 
     public void setName(String name) {
@@ -23,11 +30,11 @@ public class User {
         this.age = age;
     }
 
-    public Data getBirthday() {
+    public Date getBirthday() {
         return birthday;
     }
 
-    public void setBirthday(Data birthday) {
+    public void setBirthday(Date birthday) {
         this.birthday = birthday;
     }
 }
