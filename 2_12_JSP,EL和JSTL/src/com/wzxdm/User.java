@@ -5,9 +5,10 @@ import java.util.Date;
 
 public class User {
     private String name;
+    private String gender;
     private int age;
+    private String address;
     private Date birthday;
-
     public String getName() {
         return name;
     }
