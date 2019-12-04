@@ -1,4 +1,4 @@
 package src.com.wzxdm;
 
-public class UserServiceImpl {
+public class UserServiceImpl extends UserService {
 }
