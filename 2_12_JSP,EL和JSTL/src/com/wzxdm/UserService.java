@@ -1,7 +1,10 @@
 package src.com.wzxdm;
 
-public class UserService {
-    public void deleteUser(String id) {
-        dao
+public interface UserService {
+    static void findUserByPage(){
+
+    };
+
+     static void deleteUser(String id) {
     }
 }
